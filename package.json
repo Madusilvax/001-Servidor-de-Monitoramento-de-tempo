@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Instalação e configuração do ambiente Node.js, Express e ferramentas de desenvolvimento. Introdução ao roteamento (rotas e métodos HTTP) para Back-End.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madusilvax/001-Servidor-de-Monitoramento-de-tempo.git"
+  },
+  "author": "Maria Eduarda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madusilvax/001-Servidor-de-Monitoramento-de-tempo/issues"
+  },
+  "homepage": "https://github.com/Madusilvax/001-Servidor-de-Monitoramento-de-tempo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
